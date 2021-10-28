@@ -2,10 +2,10 @@
 > neofetch
 ```
 
-<img align="left" src="./avatar.svg" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="320" /> 
+<img align="left" src="./avatar.svg" alt="tu-dep-trai" width="305" style="border-radius: 5px" /> 
 
 ```csharp
-anordinaryusername@github
+tuvm@github
 -------------------------
 OS: Arch Linux x86_64
 Shell: zsh 5.8
@@ -15,11 +15,11 @@ Frameworks: React
 Languages: JavaScript, TypeScript,
            HTML, CSS
 Learning: Node.js, Express, PostgreSQL,
-          Three.js, CPP
+          Three.js, Python, Go
 Hobbies: Gardening, Cooking, Gaming
 Commits: 968
 Stars: 14
-Discord: RandomPotato#1377
+Discord: Minh Tú#6008
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;

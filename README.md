@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="./avatar.svg" alt="tu-dep-trai" width="305" style="border-radius: 5px" /> 
+<img align="left" src="./profile.svg" alt="tu-dep-trai" width="305" style="border-radius: 5px" /> 
 
 ```csharp
 tuvm@github
